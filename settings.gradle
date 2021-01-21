@@ -1,0 +1,2 @@
+rootProject.name='MVVMRetrofitKotlinCoroutines'
+include ':app'
